@@ -1,0 +1,11 @@
+.p-parts__list {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-gap: 10px;
+}
+
+.p-parts__item {
+  background-color: rgb(99, 67, 67);
+  border-radius: 12px;
+  height: 200px;
+}
